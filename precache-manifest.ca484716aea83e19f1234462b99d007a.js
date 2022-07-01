@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "846abac4909096e243df",
-    "url": "/realkey/static/css/main.88ad62eb.chunk.css"
+    "revision": "2022d2d71ae9bfcf35ae",
+    "url": "/realkey/static/css/main.68077d47.chunk.css"
   },
   {
-    "revision": "846abac4909096e243df",
-    "url": "/realkey/static/js/main.846abac4.chunk.js"
+    "revision": "2022d2d71ae9bfcf35ae",
+    "url": "/realkey/static/js/main.2022d2d7.chunk.js"
   },
   {
     "revision": "89fa98e6b34b7efc1fab",
@@ -48,7 +48,11 @@ self.__precacheManifest = [
     "url": "/realkey/static/media/morgage.30cfb030.png"
   },
   {
-    "revision": "bfbfe5a948d52b6f6894b279554efb2f",
+    "revision": "8331988c6c5a313174baf6390a81f616",
+    "url": "/realkey/static/media/hero.8331988c.png"
+  },
+  {
+    "revision": "5abb7ad4907c2f44b781666377037be3",
     "url": "/realkey/index.html"
   }
 ];
